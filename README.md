@@ -1,11 +1,10 @@
 # RobbieKipp.github.io
-StageOne
 
-# h1 Stage One Education
-## h2 Helicopter Training Course
-### h3 Blink circuit
-#### h4 text text
-##### h4 text text
+# Stage One Education
+## Helicopter Training Course
+### Step 2: Our First Circuit: “Blink”
+#### Parts to build the “Blink” circuit
+#### Video: Blink 1
 
 
 Alternatively, for H1 and H2, an underline-ish style:
