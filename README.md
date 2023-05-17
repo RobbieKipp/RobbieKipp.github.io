@@ -1,12 +1,12 @@
 # RobbieKipp.github.io
 StageOne
 
-# h1 Heading 8-)
-## h2 Heading
-### h3 Heading
-#### h4 Heading HELLO
-##### h5 Heading
-###### h6 Heading
+# h1 Stage One Education
+## h2 Helicopter Training Course
+### h3 Blink circuit
+#### h4 text text
+##### h4 text text
+
 
 Alternatively, for H1 and H2, an underline-ish style:
 
